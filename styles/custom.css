@@ -1,0 +1,8 @@
+nav, .header, .skills{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.header .row{
+    min-height: 100vh;
+}
